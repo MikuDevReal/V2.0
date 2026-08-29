@@ -3,7 +3,7 @@ module.exports = {
   WS_PORT: process.env.WS_PORT || 2893,
   // WhatsApp bug types
   BUGS: [
-    { bug_id: "delay", bug_name: "DELAY INVISIBLE" }
+    { bug_id: "delay", bug_name: "DELAY INVISIBLE" },
     { bug_id: "spam", bug_name: "DELAY X BULDO" },
     { bug_id: "crash", bug_name: "CRASH ANDROID" },
  //   { bug_id: "uix", bug_name: "CRASH X UI" },
