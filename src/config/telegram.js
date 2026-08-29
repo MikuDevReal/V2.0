@@ -1,10 +1,10 @@
 module.exports = {
-  TOKEN: process.env.TELEGRAM_TOKEN || "8269161411:AAHXp6F9hPTPtoBObHOH4irrW-3CLHpuGHg",
-  OWNER_ID: process.env.OWNER_ID || 8061941312,
+  TOKEN: process.env.TELEGRAM_TOKEN || "8600246114:AAEeKGootmmIj1nZMkoGnntkFltnoPcRK1s",
+  OWNER_ID: process.env.OWNER_ID || 8858654840,
   ID_GROUP: [
-    -1002933860223
+    -1004402856875
   ],
   ID_GROUP_UTAMA: [
-    -1002933860223
+    -1004402856875
   ]
 };
