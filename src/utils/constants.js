@@ -1,5 +1,5 @@
 module.exports = {
-      PORT: process.env.PORT || 2893,
+      PORT: process.env.PORT || 3000,
   WS_PORT: process.env.WS_PORT || 2893,
   // WhatsApp bug types
   BUGS: [
