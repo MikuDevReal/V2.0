@@ -1,0 +1,66 @@
+[
+  {
+    "username": "mizuki",
+    "password": "123",
+    "role": "dev",
+    "expiredDate": "9999-99-99",
+    "lastSend": 1773030644801
+  },
+  {
+    "username": "Pitzz",
+    "password": "123",
+    "role": "high admin",
+    "expiredDate": "2053-07-26",
+    "parent": "mizuki"
+  },
+  {
+    "username": "kevin",
+    "password": "1212",
+    "role": "high owner",
+    "expiredDate": "2053-07-26",
+    "parent": "mizuki"
+  },
+  {
+    "username": "dzaki",
+    "password": "2012",
+    "role": "reseller",
+    "expiredDate": "2053-07-26",
+    "parent": "mizuki"
+  },
+  {
+    "username": "raintzy",
+    "password": "1234",
+    "role": "reseller",
+    "expiredDate": "2026-03-19",
+    "parent": "kevin",
+    "lastSend": 1773245822015
+  },
+  {
+    "username": "kdk",
+    "password": "jdjd",
+    "expiredDate": "2026-04-10",
+    "role": "member",
+    "parent": "dzaki"
+  },
+  {
+    "username": "dika",
+    "password": "44",
+    "role": "owner",
+    "expiredDate": "2028-12-04",
+    "parent": "Pitzz"
+  },
+  {
+    "username": "eykal",
+    "password": "eykal0349",
+    "role": "high owner",
+    "expiredDate": "2053-07-26",
+    "parent": "Pitzz"
+  },
+  {
+    "username": "zen",
+    "password": "121",
+    "role": "owner",
+    "expiredDate": "2028-12-04",
+    "parent": "Pitzz"
+  }
+]

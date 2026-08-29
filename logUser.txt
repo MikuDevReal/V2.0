@@ -1,0 +1,19 @@
+permen_md Created Darkness Role owner Days 6767
+permen_md Created Denis Role member Days 30
+permen_md Created DANZ Role member Days 30
+permen_md Deleted DANZ (Parent: permen_md)
+permen_md Deleted Darkness (Parent: permen_md)
+permen_md Deleted Denis (Parent: permen_md)
+permen_md Created yonn Role vip Days 99
+permen_md Deleted yonn (Parent: permen_md)
+permen_md Created yonn Role vip Days 99
+mizuki Created DAII Role high owner Days 99999
+mizuki Created yanxto Role owner Days 9999
+mizuki Created Rizz Role high owner Days 99999
+DAII Created dzaki Role reseller Days 999999
+mizuki Created Ryliann Role high owner Days 9999
+mizuki Created Vampirhaha Role owner Days 9999
+DAII Created KENTANG Role member Days 999999
+DAII Created Lalxzz Role member Days 9999
+Vampirhaha Created yogresseler Role reseller Days 120
+yogresseler Created yogs duration 30
